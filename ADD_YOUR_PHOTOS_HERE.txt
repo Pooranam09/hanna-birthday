@@ -1,0 +1,1 @@
+Add photo1.jpg, photo2.jpg, and photo3.jpg to this folder. See README.txt for instructions.
